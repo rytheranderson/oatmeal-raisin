@@ -1,3 +1,4 @@
+{% raw -%}
 name: Test on push
 
 on:
@@ -28,3 +29,4 @@ jobs:
       run: poetry install --no-interaction
     - name: Test with tox
       run: poetry run tox
+{%- endraw %}
