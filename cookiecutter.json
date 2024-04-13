@@ -1,8 +1,8 @@
 {
     "full_name": "Ryther Anderson",
     "github_username": "rytheranderson",
-    "project_slug": "project_slug",
-    "project_name": "project-name",
+    "project_slug": "project-slug",
+    "project_name": "project_name",
     "description": "Short description of project",
     "version": "0.0.1"
 }
