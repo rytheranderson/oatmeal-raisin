@@ -18,7 +18,7 @@ python = "^3.10"
 
 [tool.poetry.group.dev.dependencies]
 cruft = "^2.15.0"
-hypothesis = "^6.111.4"
+hypothesis = "^6.111.1"
 mypy = "^1.11.1"
 pre-commit = "^3.8.0"
 pytest = "^8.3.2"
